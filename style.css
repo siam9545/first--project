@@ -1,0 +1,35 @@
+h1{
+    background-color: aqua;
+}
+
+.main{
+    display: flex;
+    gap: 40px;
+}
+
+.A1{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.A2{
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.A3{
+    background-color: green;
+    color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+}
